@@ -1,2 +1,2 @@
 # Locations
-All locations from geo.osclass.org added.
+All locations for Osclass
