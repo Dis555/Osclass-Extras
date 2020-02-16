@@ -1,3 +1,3 @@
 # Languages
 
-All available languages from Market are added here.
+All available languages are added here.
